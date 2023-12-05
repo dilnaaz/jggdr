@@ -1,0 +1,115 @@
+body{
+    overflow: hidden;
+}
+.mg{
+   
+   font-size: 24px;
+   font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;;
+}
+.mg1{
+    margin-top: 300px;
+    align-items: end;
+}
+
+.insta{
+    width: 400px;
+    height: auto;
+    margin: 100px 260px 0 0;
+    padding: 20px 20px ;
+    
+}
+.sp {
+   width: auto;
+   height: auto;
+}
+.acc{
+    color:rgb(0, 140, 2550, 60, 255);
+    display: flex;
+    border: 1px solid;
+
+}
+.head{
+    border: 1px solid transparent;
+    color: white;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-weight: 900;
+    height: 100px;
+    background-color: darkolivegreen;
+}
+.nave1{
+    background-color: rgb(59, 80, 22);
+    margin: 0px;
+}
+.nave1 button :hover{
+    color: rgb(48, 71, 7);
+    
+
+}
+
+/* navbar-items weight is not getting change*/
+.nav-item a  {
+   
+  margin: 0 15px;
+    
+} 
+.nav-item a:hover{
+    color: white;
+    border-radius: 5px;
+    background-color: darkolivegreen;
+}
+.d-flex button{
+    margin:0px 10px;
+}
+
+/* on search-btn hove effect is not getting applied*/
+
+.d-flex button :hover{
+    color: white;
+    border-radius: 5px;
+    background-color: darkolivegreen;
+}
+.navbar .container-fluid{
+    background-color: rgb(158, 184, 113);
+    margin: 0px;
+    padding: 10px;
+}
+.d-flex button {
+    border-color: rgb(219, 211, 211);
+     color:black;
+     background-color: white;
+}
+.row img{
+    position: relative;
+    top:auto;
+    bottom: 570px;
+    left: 700px;
+    margin: 70px 20px 0px 0px;
+    padding: 5px;
+    width: 630px;
+    height: 500px;
+    border:  rgb(100, 156, 9) 1px dashed;
+    box-shadow: 3px 4px 5px rgb(128, 168, 58)  ;
+}
+.row p{
+    text-indent: 20px;
+    margin: 15px;
+}
+.h1 {
+    padding: 15px;
+    text-align: center;
+    text-shadow: 3px 3px 3px rgb(128, 168, 58)  ;
+
+}
+footer{
+    background-color: rgb(59, 80, 22);
+    padding: 20px;
+    color: white;
+    font-family: Arial,  sans-serif;
+    font-size: large;
+    text-align: center;
+}
+.crd{
+    margin: 10px;
+    padding: 10px;
+}
